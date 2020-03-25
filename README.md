@@ -1,24 +1,17 @@
-# README
+# Kitty Surprise
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a web app that shows some very basic use of [The Cat API](https://thecatapi.com/). 
 
-Things you may want to cover:
+With the click of a button, your mood will instantly be lifted! 
 
-* Ruby version
+![image](images/img1)
+![image](images/img2)
 
-* System dependencies
+---
 
-* Configuration
+#Installation
 
-* Database creation
+To start, clone this repository to your machine and run **Bundle**
 
-* Database initialization
+Boot up localhost by using the **Rails Server** command, and open localhost:3000 in your browser of choice. 
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
