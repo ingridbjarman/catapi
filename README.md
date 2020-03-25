@@ -4,11 +4,8 @@ This is a web app that shows some very basic use of [The Cat API](https://thecat
 
 With the click of a button, your mood will instantly be lifted! 
 
-![image](images/img1)
-
-![image](images/img2)
-
 <img src="images/img1.png" alt="Screenshot"/>
+<img src="images/img2.png" alt="Screenshot"/>
 
 ---
 
